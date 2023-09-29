@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.cryptocurrency-item {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-title-con {
+  display: flex;
+  align-items: center;
+}
+.currency-logo {
+  margin-right: 9px;
+  width: 20px;
+  margin-left: 9px;
+}
+.usd-euro-con {
+  display: flex;
+}
+.usd-value {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.euro-value {
+  width: 50px;
+}
